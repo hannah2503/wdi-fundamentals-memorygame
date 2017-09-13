@@ -73,13 +73,20 @@ footer {
 	font-weight: 500;
 }
 
+input {
+	font-style: "Raleway", sans-serif;
+	font-size: 14px;
+	padding: 10px 10px;
+	margin: 20px 20px;
+}
+
 .copyright {
-	font-style: 'Raleway', sans-serif;
+	font-style: "Raleway", sans-serif;
 	float: left;
 }
 
 .message {
-	font-style: 'Raleway', sans-serif;
+	font-style: "Raleway", sans-serif;
 	float: right;
 }
 
